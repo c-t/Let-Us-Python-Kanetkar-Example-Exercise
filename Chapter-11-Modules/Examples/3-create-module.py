@@ -19,7 +19,7 @@ func3() in module modc3
 
 Use all the function in client.py
 
-Directory stcuture will be as follows:
+Directory structure will be as follows:
 messages
     __init__.py
     funny
@@ -32,6 +32,7 @@ messages
         modc1.py
         modc2.py
         modc3.py
-client.py
+
+4-client.py provided separately for the same.
 
 """
