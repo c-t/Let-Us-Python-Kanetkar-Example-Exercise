@@ -1,2 +1,2 @@
 # Let-Us-Python-Kanetkar-Example-Exercise
-Examples and solutions to exercises.
+Source code of examples and solutions to exercises.
